@@ -55,7 +55,7 @@ openshift_master_identity_providers=[{'name': 'htpasswd_auth', 'login': 'true', 
 #openshift_master_htpasswd_users={'user1': '<pre-hashed password>', 'user2': '<pre-hashed password>'}
 # or
 openshift_master_htpasswd_file=/root/htpasswd.openshift 
-penShift Metrics and Logging Vars
+#penShift Metrics and Logging Vars
 ###########################################################################
 
 # Enable cluster metrics
